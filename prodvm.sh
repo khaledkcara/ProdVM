@@ -96,5 +96,5 @@ rm -fdr /home/khalid/1.5.9.tar.gz
 rm -fdr /home/khalid/guac-install.sh
 rm -fdr /home/khalid/fogproject-1.5.9
 rm -fdr /home/khalid/myweb
-exec rm /home/khalid/netvm.sh
+exec rm /home/khalid/prodvm.sh
 exit
